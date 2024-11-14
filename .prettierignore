@@ -1,0 +1,10 @@
+.dependabot
+.github
+.readyapi
+.vscode
+package-lock.json
+node_modules
+dist
+static
+components.d.ts
+src/types
